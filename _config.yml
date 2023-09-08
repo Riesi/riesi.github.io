@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:riesi@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/riesi"}
   - {title: Mastodon, icon: mastodon, url: "https://mastodon.gamedev.place/@riesi"}
-  - {title: frog_emojis, icon: "🐸", url: "https://riesi.github.io/frog_emojis"}
+  - {title: frog_emojis, icon: frog , url: "https://riesi.github.io/frog_emojis"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
