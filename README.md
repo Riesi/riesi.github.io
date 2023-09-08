@@ -6,4 +6,4 @@ layout: page
 
 Hello!
 
-![friesi](https://github.com/Riesi/frog_emojis/blob/master/png/1024/other/riesiFrog.png)
+![friesi](https://raw.githubusercontent.com/Riesi/frog_emojis/336634740bd0835105af92c36aa00bf219e9de86/png/1024/other/riesiFrog.png)
